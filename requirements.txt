@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+
+# Optional: required only for samples/module_11_keras_bridge.py's Keras section.
+tensorflow
