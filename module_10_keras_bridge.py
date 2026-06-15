@@ -1,4 +1,4 @@
-"""Module 11 companion script: scikit-learn baseline and optional Keras text model."""
+"""Module 10 companion script: scikit-learn baseline and optional Keras text model."""
 
 from __future__ import annotations
 

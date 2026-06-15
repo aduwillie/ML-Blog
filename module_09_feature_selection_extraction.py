@@ -1,4 +1,4 @@
-"""Module 10 companion script: feature selection and extraction."""
+"""Module 09 companion script: feature selection and extraction."""
 
 from __future__ import annotations
 
